@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
-source <(curl -fsSL https://raw.githubusercontent.com/community-scripts/ProxmoxVED/main/misc/build.func)
+source <(curl -fsSL https://raw.githubusercontent.com/miguelbaldi/ProxmoxVED/refs/heads/feature/anytype-server-miguel/misc/build.func)
 # Copyright (c) 2021-2026 tteck
 # Author: tteck (tteckster)
-# License: MIT | https://github.com/community-scripts/ProxmoxVED/raw/main/LICENSE
+# License: MIT | https://github.com/miguelbaldi/ProxmoxVED/raw/main/LICENSE
 # Source: https://radarr.video/ | Github: https://github.com/Radarr/Radarr
 
 APP="Radarr"
